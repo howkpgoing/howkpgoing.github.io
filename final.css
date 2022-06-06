@@ -1,0 +1,21 @@
+p { 
+    text-align: center;
+    font-size: 36px;
+    background-image :linear-gradient(to right ,rgba(240,0,120,1),rgba(255,193,224,1));
+	color : rgb(243, 243, 243);
+}
+
+::selection {
+	color : white;
+	background-color: rgb(88, 187, 230);
+}
+h1 {
+    text-align: center;
+    font-size: 36px;
+    background-image :linear-gradient(to right ,rgb(173, 240, 129),rgba(255,193,224,1)); 
+    color : rgb(233, 112, 52);}
+h2 { color : rgb(239, 77, 77);}
+h3 { color : rgb(68, 161, 243);}
+h6 { color : rgb(2, 195, 166);}
+h5 { color : rgb(245, 75, 163);}
+h4 { color : green;}
