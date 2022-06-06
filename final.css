@@ -9,6 +9,13 @@ p {
 	color : white;
 	background-color: rgb(88, 187, 230);
 }
+
+img{
+    opacity: 0.5;
+}
+img:hover{
+    opacity: 1.0;
+}
 h1 {
     text-align: center;
     font-size: 36px;
